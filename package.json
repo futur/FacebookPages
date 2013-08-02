@@ -10,21 +10,22 @@
     "type": "git",
     "url": "https://github.com/futur/PP.git"
   },
-  "dependencies":{
-    "express":"*"
-    ,"jade": "*"
-    ,"ejs":"*"
-    ,"passport-facebook":"*"
-    ,"passport":"*"
-    },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "ejs": "*",
+    "passport-facebook": "*",
+    "passport": "*"
+  },
   "keywords": [
     "FB",
     "NODEJS",
     "MONGO"
   ],
   "author": "Futur",
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/futur/PP/issues"
-  }
+  },
+  "devDependencies": {}
 }
