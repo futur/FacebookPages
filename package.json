@@ -1,0 +1,30 @@
+{
+  "name": "PP",
+  "version": "0.0.0",
+  "description": "Connect FB pages with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/futur/PP.git"
+  },
+  "dependencies":{
+    "express":"*"
+    ,"jade": "*"
+    ,"ejs":"*"
+    ,"passport-facebook":"*"
+    ,"passport":"*"
+    },
+  "keywords": [
+    "FB",
+    "NODEJS",
+    "MONGO"
+  ],
+  "author": "Futur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futur/PP/issues"
+  }
+}
