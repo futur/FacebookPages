@@ -1,7 +1,7 @@
 {
-  "name": "PP",
-  "version": "0.0.0",
-  "description": "Connect FB pages with NodeJS",
+  "name": "FacebookPages",
+  "version": "0.0.1",
+  "description": "Connect FB pages with NodeJS/PassportJS/ExpressJS",
   "main": "app.js",
   "scripts": {
     "test": "node test.js"
