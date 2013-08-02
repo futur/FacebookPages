@@ -1,6 +1,6 @@
 {
-  "name": "FacebookPages",
-  "version": "0.0.1",
+  "name": "facebookpages",
+  "version": "0.0.2",
   "description": "Connect FB pages with NodeJS/PassportJS/ExpressJS",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/futur/PP.git"
+    "url": "https://github.com/futur/FacebookPages.git"
   },
   "dependencies": {
     "express": "*",
@@ -25,7 +25,7 @@
   "author": "Futur",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/futur/PP/issues"
+    "url": "https://github.com/futur/FacebookPages/issues"
   },
   "devDependencies": {}
 }
